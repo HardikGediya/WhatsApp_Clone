@@ -1,16 +1,50 @@
-# outcaster4th_pro
+<h1 align="center"> Hi 👋, I'm Hardik Gediya!</a></h1>
+<h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
 
-A new Flutter project.
 
-## Getting Started
+- 🔭 &ensp;I’m currently working as **Flutter Developer**
+- 🌱 &ensp;I’m currently learning Flutter ❤️
+- 👯 &ensp;I’m looking to collaborate with other content creators
+- ⚡ &ensp;Fun fact: I love reading & podcasts
 
-This project is a starting point for a Flutter application.
+----------------------------------------------------------------------
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h1 align="center">WhatsApp Clone</a></h1>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**WhatsApp Clone UI In Two Platform Android and iOS ( FLUTTER )**
+
+
+CHATS   Android      |  CHATS iOS
+:-------------------------:| :-------------------------:
+![a1](https://user-images.githubusercontent.com/77672442/173122907-15b2f73e-5762-4e9a-bb72-2187c09382d7.jpg)|
+![a1](https://user-images.githubusercontent.com/77672442/173122907-15b2f73e-5762-4e9a-bb72-2187c09382d7.jpg)
+
+STATUS   Android      |  STATUS iOS
+:-------------------------:| :-------------------------:
+![s1](https://user-images.githubusercontent.com/77672442/172053788-41e3a8d3-eefd-4824-996e-ffed6fea5b00.jpg)|
+![s2](https://user-images.githubusercontent.com/77672442/172053787-49621334-0005-462b-afd8-ee45fc3a9dd1.jpg)
+
+
+CALLS   Android      |  CALLS iOS
+:-------------------------:| :-------------------------:
+![s1](https://user-images.githubusercontent.com/77672442/172053788-41e3a8d3-eefd-4824-996e-ffed6fea5b00.jpg)|
+![s2](https://user-images.githubusercontent.com/77672442/172053787-49621334-0005-462b-afd8-ee45fc3a9dd1.jpg)
+
+
+Chats Screen   Android      |  SETTINGS iOS
+:-------------------------:| :-------------------------:
+![s1](https://user-images.githubusercontent.com/77672442/172053788-41e3a8d3-eefd-4824-996e-ffed6fea5b00.jpg)|
+![s2](https://user-images.githubusercontent.com/77672442/172053787-49621334-0005-462b-afd8-ee45fc3a9dd1.jpg)
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+
