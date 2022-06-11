@@ -15,33 +15,33 @@
 **WhatsApp Clone UI In Two Platform Android and iOS ( FLUTTER )**
 
 
-CHATS   Android      |  CHATS iOS
-:-------------------------:| :-------------------------:
-![a1](https://user-images.githubusercontent.com/77672442/173122907-15b2f73e-5762-4e9a-bb72-2187c09382d7.jpg)|
-![a1](https://user-images.githubusercontent.com/77672442/173122907-15b2f73e-5762-4e9a-bb72-2187c09382d7.jpg)
+CHATS   Android   
+:-------------------------:
+![a1](https://user-images.githubusercontent.com/77672442/173167254-f275f0b2-417e-4b29-83fb-cc9421e667cf.jpg)
 
-STATUS   Android      |  STATUS iOS
-:-------------------------:| :-------------------------:
-![s1](https://user-images.githubusercontent.com/77672442/172053788-41e3a8d3-eefd-4824-996e-ffed6fea5b00.jpg)|
-![s2](https://user-images.githubusercontent.com/77672442/172053787-49621334-0005-462b-afd8-ee45fc3a9dd1.jpg)
+CHATS   iOS   
+:-------------------------:
+![i1](https://user-images.githubusercontent.com/77672442/173167247-429903e7-8dd2-4e0b-a94c-701f8a33f258.jpg)
 
+STATUS   Android   
+:-------------------------:
+![a2](https://user-images.githubusercontent.com/77672442/173167248-41f9690b-fc6d-4258-b5f7-376ce2361e4e.jpg)
 
-CALLS   Android      |  CALLS iOS
-:-------------------------:| :-------------------------:
-![s1](https://user-images.githubusercontent.com/77672442/172053788-41e3a8d3-eefd-4824-996e-ffed6fea5b00.jpg)|
-![s2](https://user-images.githubusercontent.com/77672442/172053787-49621334-0005-462b-afd8-ee45fc3a9dd1.jpg)
+STATUS   iOS   
+:-------------------------:
+![i2](https://user-images.githubusercontent.com/77672442/173167251-6a055cad-2436-401c-916c-1f515e7680b4.jpg)
 
+CALLS   Android   
+:-------------------------:
+![a3](https://user-images.githubusercontent.com/77672442/173167249-6e96041d-4f43-4003-9f33-de9fbb4c0e9a.jpg)
 
-Chats Screen   Android      |  SETTINGS iOS
-:-------------------------:| :-------------------------:
-![s1](https://user-images.githubusercontent.com/77672442/172053788-41e3a8d3-eefd-4824-996e-ffed6fea5b00.jpg)|
-![s2](https://user-images.githubusercontent.com/77672442/172053787-49621334-0005-462b-afd8-ee45fc3a9dd1.jpg)
+CALLS   iOS   
+:-------------------------:
+![i3](https://user-images.githubusercontent.com/77672442/173167252-08eb92c5-27be-4393-8a01-49bbc50ef7d7.jpg)
 
-
-
-
-
-
+SETINGS   iOS   
+:-------------------------:
+![i4](https://user-images.githubusercontent.com/77672442/173167253-55642d38-7abc-4587-b119-c48ba1e43455.jpg)
 
 
 
